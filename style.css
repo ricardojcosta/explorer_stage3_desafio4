@@ -200,7 +200,8 @@ footer {
     .cards {
         margin-top: 64px;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-areas: 'A B'
+        grid-template-areas: 
+            'A B'
             'D B'
             'D F'
             'C E';
@@ -254,7 +255,8 @@ footer {
     .cards {
         margin-top: 64px;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-areas: 'A B C'
+        grid-template-areas: 
+            'A B C'
             'D B E'
             'D F E';
     }
