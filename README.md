@@ -1,23 +1,24 @@
-# Stage 3 - Desafio 4
+# Stage 3 - Challenge 4
 
->Curso Explorer
+>Explorer course
 
 
-Projeto construído no curso Explorer da Rocketseat.
+
+Project built on Rocketseat's Explorer course.
 
 ![preview](./.github/preview.png)
 
 
 
-[ 🔗 Clique aqui para acessar](https://ricardojcosta.github.io/explorer_stage3_desafio4/)
+[ 🔗 Click here to access](https://ricardojcosta.github.io/explorer_stage3_desafio4/)
 
 
-## ⚒ Tecnologias
+## ⚒ Technologies
 
-  - HTML (html semântico)
-  - CSS (responsividade, efeitos)
-  - Git e Github
+  - HTML (semantic html)
+  - CSS (responsiveness, effects)
+  - Git and Github
 
-## ✉ Contato
+## ✉ Contact
 
 ricardoredes2006@gmail.com
